@@ -22,12 +22,6 @@ const shobhit = {
 };
 ```
 
-## 🏆 Career Highlights
-
-- Led architectural transformation from monolithic to micro-frontend using Webpack Module Federation
-- Developed enterprise-grade applications with focus on performance and scalability
-- Implemented CI/CD pipelines and infrastructure as code using Pulumi
-- Created reusable component libraries and established enterprise-wide component ecosystems
 
 ## 📈 Stats & Achievements
 
@@ -50,11 +44,5 @@ const shobhit = {
 - Integrated OpenAI GPT-4 with Django
 - Enhanced real-time communication capabilities
 
-## 📫 Let's Connect!
-
-- LinkedIn: [Shobhit Srivastava](https://www.linkedin.com/in/your-profile)
-- Email: shobhitcse0710@gmail.com
-
----
 
 💡 *"Building software that scales, one commit at a time"*
